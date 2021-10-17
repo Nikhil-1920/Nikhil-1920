@@ -31,8 +31,7 @@
 
 <p align="left">
     <a href="https://github.com/Nikhil-1920">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhil-1920&layout=compact&langs_count=3&theme=algolia" />
-&emsp; 
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhil-1920&layout=compact&langs_count=3&theme=algolia" /> 
     <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhil-1920&show_icons=true&theme=algolia&count_private=true" />
     </a>
 </p>
