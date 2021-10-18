@@ -6,10 +6,10 @@
 
 <h3 align="left"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><em><strong> About Me </strong></em></h3>
 
-🎓 I’m currently persuing **Computer Science Engineering**.\
-🌱 I'm currently expanding my horizons in the fields of **Natural Language Processing, Alpha–Beta Pruning Algorithm,<br /> &ensp; &ensp; and Linux Kernal Development.**\
-💬 Ask me about: **Linux, AI & ML, Non-Fungible Tokens (NFTs), etc.**\
-📫 I'm available at: **nikhilsingh00485@gmail.com**.
+🎓 I’m currently persuing Computer Science Engineering.\
+🌱 I'm currently expanding my horizons in the fields of Natural Language Processing, Alpha–Beta Pruning Algorithm, <br /> &ensp; &ensp; and Linux Kernal Development.\
+💬 Ask me about: Linux, AI & ML, Non-Fungible Tokens (NFTs), etc.\
+📫 I'm available at: nikhilsingh00485@gmail.com.
 
 <hr height"1px" align="left" />
 
