@@ -29,9 +29,8 @@
 
 <hr height"1px" align="left" />
 
-<p align="left">
-    <a href="https://github.com/Nikhil-1920">
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nikhil-1920&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nikhil-1920&layout=compact&langs_count=3&theme=algolia" />
-    </a>
+<p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil-1920&hide=prs&show_icons=true&theme=tokyonight">
+    &emsp; &emsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-1920&theme=tokyonight">
 </p>
