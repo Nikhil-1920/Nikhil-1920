@@ -40,7 +40,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-1920&theme=tokyonight">
 </p>
 
-<a href="https://github.com/Nikhil-1920/Nikhil-1920 /">
-    <img src="https://github.com/Nikhil-1920/Nikhil-1920/blob/main/images/SnakeGrid.svg" alt="snake" />
-</a>
+<div align="left">
+    <a href="https://github.com/Nikhil-1920/Nikhil-1920 /">
+        <img src="https://github.com/Nikhil-1920/Nikhil-1920/blob/main/images/SnakeGrid.svg" alt="snake" />
+    </a>
+</div>
 
