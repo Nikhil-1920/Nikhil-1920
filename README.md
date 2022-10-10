@@ -2,7 +2,7 @@
 
 <h3 align="left"><em><strong>Hi there! <img alt="hi" src="https://raw.githubusercontent.com/Nikhil-1920/Nikhil-1920/master/images/HandWave.gif" width="40" /> I'm Nikhil</strong></em></h3>
 
-<hr height"1px" align="center" />
+<hr height="1px" align="center" />
 
 <h3 align="left"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><em><strong> About Me </strong></em></h3>
 
@@ -12,7 +12,7 @@
 💬 Ask me about: Linux, AI & ML, Non-Fungible Tokens (NFTs), etc.\
 📫 I'm available at: nikhilsingh00485@gmail.com.
 
-<hr height"1px" align="left" />
+<hr height="1px" align="left" />
 
 <h3 align="left"><em><strong>Connect with Me:</strong></em></h3>
 
@@ -21,7 +21,7 @@
 <a href="https://www.hackerrank.com/ixian" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ixian" height="30" width="40" /> </a> <a href="https://linkedin.com/in/nikhil-singh-b2a78014a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil singh" height="30" width="40" /> </a> <a href="https://stackoverflow.com/users/17214048/nikhil-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nikhil singh" height="30" width="40" /> </a>
 </p>
 
-<hr height"1px" align="left" />
+<hr height="1px" align="left" />
 
 <h3 align="left"><em><strong>Tools & Technologies that I know:</strong></em></h3>
 
@@ -32,7 +32,7 @@
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<hr height"1px" align="left" />
+<hr height="1px" align="left" />
 
 <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil-1920&hide=prs&show_icons=true&theme=tokyonight">
@@ -40,7 +40,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-1920&theme=tokyonight">
 </p>
 
-<hr height"1px" align="center" />
+<hr height="1px" align="center" />
 
 <div align="left">
     
