@@ -42,11 +42,9 @@
 
 <hr height="1px" align="center" />
 
-<div align="left">
-    
-    <a href="https://github.com/Nikhil-1920/Nikhil-1920 /">
-        <img src="https://github.com/Nikhil-1920/Nikhil-1920/blob/main/images/SnakeGrid.svg" alt="snake" />
-    </a>
-</div>
+<a href="https://github.com/Nikhil-1920/Nikhil-1920 /">
+    <img src="https://github.com/Nikhil-1920/Nikhil-1920/blob/main/images/SnakeGrid.svg" alt="snake" />
+</a>
+
 
 
