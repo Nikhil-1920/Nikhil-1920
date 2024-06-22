@@ -18,17 +18,17 @@ class Meta(type):
 
 class Bio(metaclass=Meta):
     name        : str = "Nikhil Singh"
-    designation : str = "Software Engineer"
-    company     : str = "IBM Research"
+    university  : str = "IIIT-Hyderabad"
+    course      : str = "M.Tech. CSE"
     base        : str = "Noida, India"
     blog        : str = "https://medium.com/@nikhilsingh3"
 
 
 class Stack(metaclass=Meta):
-    languages   : Tuple[str, ...] = ("Python", "Go", "Shell")
-    databases   : Tuple[str, ...] = ("MySQL", "PostgreSQL", "Mongo", "Redis")
+    languages   : Tuple[str, ...] = ("Python", "C", "C++", "Shell")
+    databases   : Tuple[str, ...] = ("MySQL", "MongoDB")
     misc        : Tuple[str, ...] = ("Docker", "Celery")
-    ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
+    ongoing     : Tuple[str, ...] = ("Django", "Flask")
 
 
 class Social(metaclass=Meta):
