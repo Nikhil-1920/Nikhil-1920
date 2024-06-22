@@ -38,12 +38,21 @@ class Social(metaclass=Meta):
     linkedin    : str = "nikhil-singh-b2a78014a"
 ```
 
+<hr height="1px" align="left" />
+
+<p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil-1920&hide=prs&show_icons=true&theme=tokyonight">
+    &emsp; &emsp;
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-1920&theme=tokyonight">
+</p>
 
 <hr height="1px" align="center" />
 
 <a href="https://github.com/Nikhil-1920/Nikhil-1920 /">
     <img src="https://github.com/Nikhil-1920/Nikhil-1920/blob/main/images/SnakeGrid.svg" alt="snake" />
 </a>
+
+
 
 
 
