@@ -1,5 +1,3 @@
-<img align="center" width="880px" src="https://raw.githubusercontent.com/Nikhil-1920/Nikhil-1920/master/images/Hi There.gif" />
-
 <h3 align="left"><em><strong>Hi there! <img alt="hi" src="https://raw.githubusercontent.com/Nikhil-1920/Nikhil-1920/master/images/HandWave.gif" width="40" /> I'm Nikhil</strong></em></h3>
 
 <hr height="1px" align="center" />
