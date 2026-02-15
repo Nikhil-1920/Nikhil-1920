@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00cc33&height=200&section=header&text=Nikhil%20Singh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-### 🎓 CSE @ IIIT-Hyderabad  |  📊 Quantitative Research  |  ⚛️ Quantum Computing 
+### 🎓 CSE @ IIIT-Hyderabad  |  📊 Quantitative Research  |  ⚛️ Quantum Computing  |  🤖 Robotics & Planning
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+scalable+applications;Learning+Django+%26+Flask;Let's+connect+and+collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+scalable+applications;Let's+connect+and+collaborate!)](https://git.io/typing-svg)
 
 </div>
 
