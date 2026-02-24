@@ -91,9 +91,9 @@ Exploring quantum computing approaches to achieve exponential speedups in high-d
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nikhil-1920&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
+</p> -->
 
 ---
 
